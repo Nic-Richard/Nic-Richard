@@ -1,4 +1,5 @@
-<img src width="2520" height="1380" alt="showcase-web-projects" src="https://github.com/user-attachments/assets/a03fe701-f4da-42a9-8066-1b63c26a1a10" />
+<img src="https://github.com/user-attachments/assets/a03fe701-f4da-42a9-8066-1b63c26a1a10" width="100%" alt="Portlore, Miscellary, TraceTray and WikiRacr" />
+
 # Hi, I'm Nic
 
 I'm a full-stack developer in Saint John, New Brunswick, and a 2026 Computer Science graduate of UNB. I build web, mobile, and desktop apps, and I care about building software that works well, feels polished, and is genuinely useful.
