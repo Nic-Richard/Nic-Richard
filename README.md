@@ -6,8 +6,8 @@ I'm a full-stack developer in Saint John, New Brunswick, and a 2026 Computer Sci
 
 ## Projects
 
-- **[Miscellary](https://miscellary.com)**: a social trading card platform for web and Android. Next.js, React Native, Django, PostgreSQL, AWS. ([code](https://github.com/Nic-Richard/miscellary))
 - **[Portlore](https://portlore.com)**: a cruise port guide for finding the places worth visiting near where you dock. Node.js, OpenStreetMap, Google Places. ([code](https://github.com/Nic-Richard/portlore))
+- **[Miscellary](https://miscellary.com)**: a social trading card platform for web and Android. Next.js, React Native, Django, PostgreSQL, AWS. ([code](https://github.com/Nic-Richard/miscellary))
 - **[TraceTray](https://tracetray.com)**: behavioural website analytics with a machine learning pipeline. Node.js, Python, MongoDB. ([code](https://github.com/Nic-Richard/tracetray))
 - **[WikiRacr](https://wikiracr.com)**: a competitive Wikipedia racing game built on fast graph search. React, Node.js, Socket.IO. ([code](https://github.com/Nic-Richard/wikiracr))
 - **[Seed Placement Randomizer](https://github.com/Nic-Richard/seed-placement-randomizer/releases/latest)**: a desktop app commissioned by a researcher to remove bias from seed experiments. C#, .NET, Avalonia. ([code](https://github.com/Nic-Richard/seed-placement-randomizer))
