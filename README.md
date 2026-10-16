@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a03fe701-f4da-42a9-8066-1b63c26a1a10" width="100%" alt="Portlore, Miscellary, TraceTray and WikiRacr" />
+<img src="banner.png" width="100%" alt="Portlore, Miscellary, TraceTray and WikiRacr" />
 
 # Hi, I'm Nic
 
