@@ -2,7 +2,7 @@
 
 # Hi, I'm Nic
 
-I'm a full-stack developer in Saint John, New Brunswick, and a 2026 Computer Science graduate of UNB. I build web, mobile, and desktop apps, and I care about building software that works well, feels polished, and is genuinely useful.
+I'm a full-stack developer in Saint John, New Brunswick, and a Computer Science graduate of UNB. I build web, mobile, and desktop apps, and I care about building software that works well, feels polished, and is genuinely useful.
 
 ## Projects
 
